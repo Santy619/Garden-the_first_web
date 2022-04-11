@@ -1,0 +1,16 @@
+body{
+    background: black;
+}
+
+
+.avatar {
+    width: 100px;
+    height: 100px;
+}
+
+
+
+
+.carousel-item{
+    left: 145px;
+}
